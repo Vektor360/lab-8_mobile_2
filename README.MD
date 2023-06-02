@@ -357,7 +357,7 @@ data class Crime(val id: UUID = UUID.randomUUID(),
 
 </LinearLayout>
 ```
-
+`Спросить про Градиент`
 <p align = "center">
     <img src = "images/1-1.png">
 </p>
